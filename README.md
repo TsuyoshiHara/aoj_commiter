@@ -14,7 +14,7 @@ define('PASS', 'ENTER_YOUR_PASSWORD');
 ### parameters
 
 |Name|Description|
-|-|-|
+|---|---|
 |p, problemNO|problem number|
 |l, lang, language|language|
 |f, file|file name|
